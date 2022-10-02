@@ -2,7 +2,7 @@ import React from 'react'
 import { Hijo } from './Hijo'
 import { useState } from 'react';
 import { useCallback } from 'react';
-import { useEffect } from 'react;
+import { useEffect } from 'react';
 
 export const Padre = () => {
     
